@@ -1,0 +1,65 @@
+body {
+	background-color: whitesmoke;
+}
+#container {
+	width:  900px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: e4fcfc;
+}
+header{
+	font-size: 50px;
+	color: f0979f;
+	font-family: helvetica;
+	background-image: url("ito.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 300px;
+	line-height: 250px;
+  	text-align: center;	
+}
+h2{
+	font-size: 20px;
+	font-family: 'Segoe UI';
+	font-weight: normal;
+	line-height: -1px;;
+  	text-align: center;	
+	color: white;
+  	margin-top: -150px;
+  	margin-right: 150px;
+  	margin-left: 150px; 
+}
+#profile img {
+	margin-top: 150px;
+	margin-left: 350px;
+}
+#bio h1 {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	color: black;
+}
+#bio {
+	color: black;
+
+}
+p {
+	font-size: 16;
+	font-family: 'Times New Roman';
+	text-indent: 30px;
+	text-align: justify;
+	margin-left: 70;
+	margin-right: 70px;
+	word-spacing: normal;
+}
+footer {
+	background-color: e4fcfc;
+	text-align: center;
+	margin-top: 100px;
+
+}
+
+
+
+  
+
